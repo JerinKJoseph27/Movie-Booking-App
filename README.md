@@ -20,7 +20,6 @@ A comprehensive web-based movie ticket booking system built with Flask and MySQL
 - [API Endpoints](#api-endpoints)
 - [Database Schema](#database-schema)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
